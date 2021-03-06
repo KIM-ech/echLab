@@ -9,3 +9,6 @@ cd filename
 git add [    .name]
 git commit -m "comments"
 git push
+-------------------------------
+git fetch
+git merge
