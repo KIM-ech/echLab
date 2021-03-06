@@ -1,1 +1,11 @@
 Nice to meet u
+
+git config --global user.name
+git config --global user.email
+cd d"\filename
+git clone https:
+-------------------------------
+cd filename
+git add [    .name]
+git commit -m "comments"
+git push
